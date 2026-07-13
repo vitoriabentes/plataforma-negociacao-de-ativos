@@ -1,0 +1,9 @@
+[submodule "cadastro-ativos-api"]
+	path = cadastro-ativos-api
+	url = https://github.com/vitoriabentes/cadastro-ativos-api
+[submodule "precos-atualizar-job"]
+	path = precos-atualizar-job
+	url = https://github.com/vitoriabentes/precos-atualizar-job.git
+[submodule "precos-ativo-alterado-job"]
+	path = precos-ativo-alterado-job
+	url = https://github.com/le-affes/precos-ativo-alterado-job.git
