@@ -13,3 +13,6 @@
 [submodule "cadastro-investidor-api"]
 	path = cadastro-investidor-api
 	url = https://github.com/letvasconcelos/cadastro-investidor-api.git
+[submodule "operacoes-api"]
+	path = operacoes-api
+	url = https://github.com/l3ticiavasconcel0s/operacoes-api.git
