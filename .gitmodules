@@ -7,3 +7,6 @@
 [submodule "precos-ativo-alterado-job"]
 	path = precos-ativo-alterado-job
 	url = https://github.com/le-affes/precos-ativo-alterado-job.git
+[submodule "cadastro-corretoras-api"]
+	path = cadastro-corretoras-api
+	url = https://github.com/tdlp2003/cadastro-corretora-api/
