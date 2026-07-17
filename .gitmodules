@@ -7,3 +7,9 @@
 [submodule "precos-ativo-alterado-job"]
 	path = precos-ativo-alterado-job
 	url = https://github.com/le-affes/precos-ativo-alterado-job.git
+[submodule "preco-atual-api"]
+	path = preco-atual-api
+	url = https://github.com/l3ticiavasconcel0s/preco-atual-api.git
+[submodule "cadastro-investidor-api"]
+	path = cadastro-investidor-api
+	url = https://github.com/letvasconcelos/cadastro-investidor-api.git
