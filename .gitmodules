@@ -19,3 +19,6 @@
 [submodule "cadastro-corretoras-api"]
 	path = cadastro-corretoras-api
 	url = https://github.com/tdlp2003/cadastro-corretora-api/
+[submodule "documentacao-infraestrutura"]
+	path = documentacao-infraestrutura
+	url = https://github.com/vitoriabentes/documentacao-infraestrutura.git
