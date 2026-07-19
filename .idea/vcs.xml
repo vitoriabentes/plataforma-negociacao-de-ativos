@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cadastro-ativos-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cadastro-corretoras-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cadastro-investidor-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/documentacao-infraestrutura" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operacoes-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/preco-atual-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/precos-ativo-alterado-job" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/precos-atualizar-job" vcs="Git" />
+  </component>
+</project>
