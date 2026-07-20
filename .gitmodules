@@ -16,8 +16,8 @@
 [submodule "operacoes-api"]
 	path = operacoes-api
 	url = https://github.com/l3ticiavasconcel0s/operacoes-api.git
-[submodule "cadastro-corretoras-api"]
-	path = cadastro-corretoras-api
+[submodule "cadastro-corretora-api"]
+	path = cadastro-corretora-api
 	url = https://github.com/tdlp2003/cadastro-corretora-api/
 [submodule "documentacao-infraestrutura"]
 	path = documentacao-infraestrutura
