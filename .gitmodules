@@ -1,6 +1,6 @@
-[submodule "cadastro-ativos-api"]
-	path = cadastro-ativos-api
-	url = https://github.com/vitoriabentes/cadastro-ativos-api
+[submodule "cadastro-ativo-api"]
+	path = cadastro-ativo-api
+	url = https://github.com/vitoriabentes/cadastro-ativo-api
 [submodule "precos-atualizar-job"]
 	path = precos-atualizar-job
 	url = https://github.com/vitoriabentes/precos-atualizar-job.git
